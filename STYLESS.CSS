@@ -1,0 +1,56 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    border: solid 1px black;
+   height: 700px;
+   margin-top: 100px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.container2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 1px black;
+   height: 700px;
+   width: 900px;
+   margin-top: 100px;
+    margin-left: 500px;
+    margin-right: 300px;
+}
+.container3{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    border: solid 1px black;
+   height: 300px;
+   margin-top: 100px;
+   margin-left: 200px;
+   margin-right: 200px;
+    
+}
+.caja1{
+background-color: red;
+width: 300px;
+height: 300px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.caja2{
+background-color: blue;
+width: 300px;
+height: 300px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.caja3{
+background-color: green;
+width: 300px;
+height: 300px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
